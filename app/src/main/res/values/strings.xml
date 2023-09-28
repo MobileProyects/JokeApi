@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">connectApi</string>
+    <string name="joke">New Joke</string>
+</resources>
